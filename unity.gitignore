@@ -4,6 +4,12 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+HW1and2/[Ll]ibrary/
+HW1and2/[Tt]emp/
+HW1and2/[Oo]bj/
+HW1and2/[Bb]uild/
+HW1and2/[Bb]uilds/
+HW1and2/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
