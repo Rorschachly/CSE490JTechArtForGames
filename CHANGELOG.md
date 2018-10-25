@@ -11,3 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2017-06-20
 ### Added
 - Nothing
+
+## [1.0.1] - 2018-25-10
+###Added
+- Post Processing to project
+-created post provessing layers
+
+###Changed
+- updated gitignore to ignore foldres
+- animated lighting in scene to get day/night transition
+- updated lamp material to have emission
+- added post processing layers to scene
